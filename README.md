@@ -1,9 +1,9 @@
 # swe-competency-matrix
 Collection of software engineer competency matrices aka leveling matrices.
 
-Note: a well-structured organization should have such a matrix, so that each engineer is well aware of the role and responsibilities as well as how can progress with the organization. This collection is only useful if no such matrix exist of you build a matrix for your own organization.
+Note: a well-structured organization should have such a matrix, so that each engineer is well aware of the roles and responsibilities as well as how can progress within the organization. This collection is only useful if no such matrix exists of you build a matrix for your own organization.
 
-Note2: There is no single standard vocabulary for levels. Every organization has a different system, often contradictory e.g. staff is before principal or vice-versa.
+Note2: There is no single standard vocabulary for levels. Every organization has a different system, often contradictory e.g. staff is before principal and vice-versa.
 
 ## Generalized matrix
 
