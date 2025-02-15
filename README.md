@@ -12,7 +12,7 @@ Note2: There is no single standard vocabulary for levels. Every organization has
 ## SaaS companies matrix
 
 * [CircleCI](https://docs.google.com/spreadsheets/d/131XZCEb8LoXqy79WWrhCX4sBnGhCM1nAIz4feFZJsEo/edit?gid=0)
-* Official "Amazon SoftwareDevelopment Engineer(SDE) Role Guideline" isn't available by any Open Source license
+* Official "Amazon Software Development Engineer(SDE) Role Guideline" isn't available by any Open Source license
 
 ## Related articles
 
