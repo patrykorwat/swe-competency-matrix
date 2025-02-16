@@ -13,7 +13,7 @@ Note2: There is no single standard vocabulary for levels. Every organization has
 
 * [CircleCI](https://circleci.com/blog/why-we-re-designed-our-engineering-career-paths-at-circleci/) ([spreadsheet](https://docs.google.com/spreadsheets/d/131XZCEb8LoXqy79WWrhCX4sBnGhCM1nAIz4feFZJsEo/edit?gid=0)) - for SWEs only
 * [Buffer](https://buffer.com/resources/career-framework/) - generalized, for individuals and managers
-* Official "Amazon Software Development Engineer(SDE) Role Guideline" isn't available by any Open Source license
+* Official "Amazon Software Development Engineer(SDE) Role Guideline" isn't available via any Open Source license
 * [Bigger list of growth frameworks for engineers](https://scalingfunds.notion.site/Growth-Frameworks-for-Engineers-63caaa58edcb41c0ba28a0cf929f24db)
 * [Another list with career ladders](https://www.swyx.io/career-ladders) - from 2020
 
