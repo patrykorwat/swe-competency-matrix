@@ -5,6 +5,8 @@ Note: a well-structured organization should have such a matrix, so that each eng
 
 Note2: There is no single standard vocabulary for levels. Every organization has a different system, often contradictory e.g. staff is before principal and vice-versa.
 
+Note3: some of the biggest organizations, with 10-50k+ employees, establish roles of a distinguished and fellow engineer. While it makes sense for those roles to exist there, it doesn't make sense to establish such roles at smaller organizations. After all, there can be always senior principal...
+
 ## Generalized matrix
 
 * [github.com/h3h/leveling-matrix](https://h3h.github.io/leveling-matrix/)
